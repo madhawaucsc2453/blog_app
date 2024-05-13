@@ -1,0 +1,6 @@
+import 'package:supabase_flutter/supabase_flutter.dart';
+
+class AppSecrets {
+static const SupabaseUrl="https://ksuayxeyphquzsvuocvp.supabase.co";
+static const anonKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtzdWF5eGV5cGhxdXpzdnVvY3ZwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTU1MzUwODUsImV4cCI6MjAzMTExMTA4NX0.kAASkBWavqOHfFOaC4ypqPLzouyg37l0GZfFiEreMaI";
+}
